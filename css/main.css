@@ -1,5 +1,5 @@
 .primary-overlay {
-  background: rgba(112, 81, 176, 0.3);
+  background: rgba(112, 81, 176, 0.6);
   position: absolute;
   top: 0;
   left:0;
@@ -20,6 +20,21 @@
 .main-header .showcase {
   padding-top: 100px;
 }
+
+ /* Solutions */
+.main-header-inner {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  color: #fff;
+}
+.main-header-inner .showcase {
+  /* padding-top: 100px; */
+  padding-top: 50px;
+}
+
+
 
 .active-link {
   color: #d847f1;
@@ -73,4 +88,8 @@
 
 .carousel-item p {
   font-size: 20px !important;
+}
+
+.tabs .indicator{
+  background-color: #6a1b9a !important
 }
