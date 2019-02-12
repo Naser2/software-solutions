@@ -93,3 +93,28 @@
 .tabs .indicator{
   background-color: #6a1b9a !important
 }
+
+.btn-extend {
+  display: block;
+  width:100%;
+}
+
+.card-panel .select-wrapper {
+  color:rgb(130, 58, 202) !important;
+
+}
+
+
+.caret {
+  color:rgb(163, 38, 212) !important;
+  font-size:20px !important
+}
+
+.select-wrapper input.select-dropdown {
+ color:rgb(168, 38, 209) !important;
+  /* color:white */
+}
+.select-dropdown .active {
+  color:rgb(52, 116, 193) !important;
+   color:white
+ }
